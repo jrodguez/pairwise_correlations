@@ -14,5 +14,7 @@ _note_ This assignment is also about process, not just the end product.  Keep yo
 
 ### Results of unit tests
 ```
-Paste here!
+Ran 3 tests in 0.685s
+
+OK
 ```
